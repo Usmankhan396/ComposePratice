@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposePratice</string>
+    <string name="this_is_practice_app_for_jetpack_compose_learning">This is Practice App for Jetpack Compose Learning</string>
+    <string name="icon_for_addition_button">Icon for addition button</string>
+    <string name="reset">Reset</string>
+    <string name="add_name_to_list">Add Name to List</string>
+    <string name="remove_name_from_list">Remove Name from List</string>
+    <string name="the_names_list_will_show_here">The Names List will show here:</string>
+    <string name="world">World</string>
+    <string name="a_practice_image">A practice Image</string>
+</resources>
